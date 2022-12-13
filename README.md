@@ -16,9 +16,22 @@
 > * Examine and consider different case study scenarios. 
 > * Have the chance to complete your own case study for your portfolio.
 
-## What you will find in this repo
+## Case study chosen
 
-Here you will find my *md* source file developed in **R** with the whole process I have designed in order to perform my analysis (Sources folder).
+**Scenario**
+
+You are a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director
+of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore,
+your team wants to understand how casual riders and annual members use Cyclistic bikes diﬀerently. From these insights,
+your team will design a new marketing strategy to convert casual riders into annual members. But ﬁrst, Cyclistic executives
+must approve your recommendations, so they must be backed up with compelling data insights and professional data
+visualizations.
+
+**Note**: additional detail about case study can be found in *CaseStudy1.pdf*
+
+## What you will find
+
+In this repo you will find my *md* source file developed in **R** with the whole process I have designed in order to perform my analysis (Sources folder).
 Reference about dataset can be found inside the file. 
 
 **Note**: to correclty run the *rmd*, dataset must be downloaded and directory on import code chunck must be changed.
